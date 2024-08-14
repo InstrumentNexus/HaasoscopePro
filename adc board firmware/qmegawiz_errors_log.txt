@@ -26,3 +26,93 @@ Error messages are listed in file
 C:/Users/ahaas/Dropbox/cygwin/home/cygwinhome/dist_board/trig2_board_pllphase_de0nano-firmware/pll1.cnxerr.
 
 Can't create the custom megafunction variation file(s)
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:45:55>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:45:59>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:46:05>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:46:16>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:46:21>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:46:29>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:46:54>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:47:58>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:48:04>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:48:13>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:55:13>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:55:18>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:56:46>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:59:28>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:59:35>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:59:41>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 03PM:59:56>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/gitwork/master/HaasoscopePro/adc board firmware/pll5.v
+
+Aug 14 04PM:04:08>: Megafunction PLL Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

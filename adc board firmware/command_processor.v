@@ -48,7 +48,7 @@ module command_processor (
 	
 	input wire			activeclock, clkbad1, clkbad0,
 	
-  output reg[2:0] phasecounterselect, // Dynamic phase shift counter Select. 000:all 001:M 010:C0 011:C1 100:C2 101:C3 110:C4. Registered in the rising edge of scanclk.
+  output reg[4:0] phasecounterselect, // Dynamic phase shift counter Select. 000:all 001:M 010:C0 011:C1 100:C2 101:C3 110:C4. Registered in the rising edge of scanclk.
   output reg phaseupdown=1, // Dynamic phase shift direction; 1:UP, 0:DOWN. Registered in the PLL on the rising edge of scanclk.
   output reg phasestep=0,
   output reg scanclk=0,
@@ -246,7 +246,7 @@ always @ (posedge clk or negedge rstn)
 		end
 		
 		6 : begin
-			phasecounterselect=rx_data[2][2:0];// 000:all 001:M 010:C0 011:C1 100:C2 101:C3 110:C4. 
+			phasecounterselect=rx_data[2][4:0];// 000:all 001:M 010:C0 011:C1 100:C2 101:C3 110:C4. 
 			phaseupdown=rx_data[3][0]; // up or down
 			scanclk=1'b0; // start low
 			phasestep=1'b1; // assert!

@@ -17,6 +17,7 @@
 component lvds1
 	PORT
 	(
+		rx_enable		: IN STD_LOGIC ;
 		rx_in		: IN STD_LOGIC_VECTOR (13 DOWNTO 0);
 		rx_inclock		: IN STD_LOGIC ;
 		rx_out		: OUT STD_LOGIC_VECTOR (139 DOWNTO 0)

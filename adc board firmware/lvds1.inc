@@ -16,6 +16,7 @@
 
 FUNCTION lvds1 
 (
+	rx_enable,
 	rx_in[13..0],
 	rx_inclock
 )
